@@ -1,0 +1,16 @@
+Vendor Performance Agent
+
+Purpose: Evaluates supplier reliability and risk.
+
+Agent Tasks
+
+Tracks delivery timelines
+
+Scores vendors
+
+Flags performance declines
+
+Suggests alternative suppliers
+
+Value
+Prevents supply chain disruptions.
